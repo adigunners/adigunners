@@ -1,6 +1,6 @@
 # Aditya Garg
 
-Building AI-powered tools for finance and football.
+Building AI-powered tools for Online Food Delivery, Finance and Fantasy Football.
 Consumer Pricing & Revenue Management @ JET | Building My FPL Mini-League.
 
 ## What I Build
